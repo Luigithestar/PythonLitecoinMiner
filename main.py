@@ -5,7 +5,7 @@ import json
 
 POOL_HOST = "ltc.zsolo.bid"  
 POOL_PORT = 4057
-user = "ltc1quja3smxyr4m02f7v8tjmcwz37567k7z0rj66ac"
+user = "MSTQiPX8S7bc5EndhV5A56BLHG3oG797dj"
 API_URL = "https://ltc-chain.api.btc.com/v3/block/latest"
 SALT = b"LitecoinMiningSalt"
 nonce = 0
